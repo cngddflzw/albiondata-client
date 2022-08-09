@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/broderickhyman/albiondata-client/tree/master.svg?style=svg)](https://circleci.com/gh/broderickhyman/albiondata-client/tree/master) [![Go Report Card](https://goreportcard.com/badge/github.com/broderickhyman/albiondata-client)](https://goreportcard.com/report/github.com/broderickhyman/albiondata-client)
 
+# Zim Version
+
 # Albion Data - Client
 Distributed client for the [Albion Online Data](https://www.albion-online-data.com/)
 project.
